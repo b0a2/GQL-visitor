@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(console, Some(d845dd0b-fd51-4fea-9a21-623900b085a8), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / console[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/bsh/Code/visitor/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mStarting scala interpreter...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 22 s, completed 21 Nov 2021, 21:54:31[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

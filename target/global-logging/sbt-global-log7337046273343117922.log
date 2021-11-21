@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(console, Some(5773a93f-8b49-48ea-8827-5925832d2f75), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / console[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/bsh/Code/visitor/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mStarting scala interpreter...[0m
